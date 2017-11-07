@@ -54,6 +54,7 @@
 		11E81F321FB1DA9500F67409 /* DUZBTest */ = {
 			isa = PBXGroup;
 			children = (
+				11E81F4C1FB1EED700F67409 /* classes */,
 				11E81F331FB1DA9500F67409 /* AppDelegate.swift */,
 				11E81F351FB1DA9500F67409 /* ViewController.swift */,
 				11E81F371FB1DA9500F67409 /* Main.storyboard */,
@@ -62,6 +63,13 @@
 				11E81F3F1FB1DA9500F67409 /* Info.plist */,
 			);
 			path = DUZBTest;
+			sourceTree = "<group>";
+		};
+		11E81F4C1FB1EED700F67409 /* classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
